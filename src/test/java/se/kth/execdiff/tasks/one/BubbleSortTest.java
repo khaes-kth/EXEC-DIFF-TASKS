@@ -1,4 +1,4 @@
-package se.kth.execdiff.one;
+package se.kth.execdiff.tasks.one;
 
 import org.junit.jupiter.api.Test;
 import se.kth.execdiff.tasks.one.BubbleSort;
